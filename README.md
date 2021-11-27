@@ -19,7 +19,8 @@ Download ISO Installer windows server 2022
    <img width="874" alt="cccc" src="https://user-images.githubusercontent.com/92350603/143621513-6da949ad-311d-4c4b-af20-f8dc3031a9e4.PNG">
 
 - Then open `Oracle VM`
-  
+  ![OPEN VB](https://user-images.githubusercontent.com/93086665/143688074-1e9de5ea-e3f0-44ef-8c16-547681064c7e.png)
+
 - Next Klik `New`, and do it like the picture below :
   
   Enter the name of the machine and type of system to use
@@ -35,18 +36,19 @@ Download ISO Installer windows server 2022
 
 
 -  Click on `Start` and the Windows Server 2022 installation wizard will load
-
+![1](https://user-images.githubusercontent.com/93086665/143688385-8fb46fe9-6674-48ca-be82-2af467a7a9e4.png)
 
 -  Click on `Install now`
+![2](https://user-images.githubusercontent.com/93086665/143688386-f00383d2-f111-4f3f-86bd-d79309dde0cf.png)
 
 - Select windows server 2022 desktop experience
-
+![3](https://user-images.githubusercontent.com/93086665/143688387-2da4ce6e-eaba-4707-931b-863002423ede.png)
 - Accept the license and then proceed with the installation of Windows Server 2022
-
+![4](https://user-images.githubusercontent.com/93086665/143688388-9e9b1d19-ec7f-4b16-927b-1871a9b79d6c.png)
 - Select windows server 2022 install microsoft server advanced (Custom)
-
+![5](https://user-images.githubusercontent.com/93086665/143688381-20ec0dbe-e8c1-4f9f-ba8e-0715439e9076.png)
 - Location installation of windows server 2022
-
+[6](https://user-images.githubusercontent.com/93086665/143688382-07e463a9-1fb1-491e-8146-091373ce2f29.png)
 - installation progress
 
 - The system will reboot to complete the process
